@@ -1,0 +1,28 @@
+[2019-08-11 22:46 UTC] - Customer args: {"email":"waldron_customer@dovewebdesign.com","metadata":{"first_name":"Waldron","last_name":"McCritty","display_name":"Waldron McCritty"},"source":null}
+[2019-08-11 22:46 UTC] - Charge args: {"customer":"cus_Fbd37gLUKknkSm","currency":"usd","amount":22,"description":"Payment from ","receipt_email":"","metadata":{"esb_plan_id":"6561","order_id":6620,"order_post_type":"lbooking","order_ids":"6620","user_id":9,"user_email":"waldron_customer@dovewebdesign.com","renew":"no","subscription":"no"}}
+[2019-08-11 22:46 UTC] - Stripe create charge error: Cannot charge a customer that has no active card
+[2019-08-12 04:14 UTC] - Customer args: {"email":"hello@dovewebdesign.com","metadata":{"first_name":"","last_name":"","display_name":"admin"},"source":null}
+[2019-08-12 04:14 UTC] - Charge args: {"customer":"cus_FbiLfcF8ESSnTa","currency":"usd","amount":2200,"description":"Payment from ","receipt_email":"","metadata":{"esb_plan_id":"6561","order_id":6623,"order_post_type":"lbooking","order_ids":"6623","user_id":1,"user_email":"hello@dovewebdesign.com","renew":"no","subscription":"no"}}
+[2019-08-12 04:14 UTC] - Stripe create charge error: Cannot charge a customer that has no active card
+[2019-08-12 04:23 UTC] - Customer args: {"email":"hello@dovewebdesign.com","metadata":{"first_name":"","last_name":"","display_name":"admin"},"source":null}
+[2019-08-12 04:23 UTC] - Charge args: {"customer":"cus_FbiVPInMoLoob8","currency":"usd","amount":2200,"description":"Payment from ","receipt_email":"","metadata":{"esb_plan_id":"6561","order_id":6624,"order_post_type":"lbooking","order_ids":"6624","user_id":1,"user_email":"hello@dovewebdesign.com","renew":"no","subscription":"no"}}
+[2019-08-12 04:23 UTC] - Stripe create charge error: Cannot charge a customer that has no active card
+[2019-08-12 04:23 UTC] - Customer args: {"email":"hello@dovewebdesign.com","metadata":{"first_name":"","last_name":"","display_name":"admin"},"source":null}
+[2019-08-12 04:23 UTC] - Charge args: {"customer":"cus_FbiVJZ6G6Cc8Km","currency":"usd","amount":2200,"description":"Payment from ","receipt_email":"","metadata":{"esb_plan_id":"6561","order_id":6625,"order_post_type":"lbooking","order_ids":"6625","user_id":1,"user_email":"hello@dovewebdesign.com","renew":"no","subscription":"no"}}
+[2019-08-12 04:23 UTC] - Stripe create charge error: Cannot charge a customer that has no active card
+[2019-08-13 14:44 UTC] - Customer args: {"email":"waldron_customer@dovewebdesign.com","metadata":{"first_name":"Waldron","last_name":"McCritty","display_name":"Waldron McCritty"},"source":"tok_1F71EsA34CXsPL7sCi7tHKx9"}
+[2019-08-13 14:44 UTC] - Charge args: {"customer":"cus_FcFkEFsv3LMFDh","currency":"usd","amount":22,"description":"Payment from waldron@beluxllc.com","receipt_email":"waldron@beluxllc.com","metadata":{"esb_plan_id":"6561","order_id":6631,"order_post_type":"lbooking","order_ids":"6631","user_id":9,"user_email":"waldron_customer@dovewebdesign.com","renew":"no","subscription":"no"}}
+[2019-08-13 14:44 UTC] - Stripe create charge error: Amount must be at least 50 cents
+[2019-08-25 23:57 UTC] - Customer args: {"email":"waldron_customer@dovewebdesign.com","metadata":{"first_name":"Waldron","last_name":"McCritty","display_name":"Waldron McCritty"},"source":"tok_1FBVafA34CXsPL7sOu7P8pzm"}
+[2019-08-25 23:57 UTC] - Charge args: {"customer":"cus_FgtNs6VPK1zXwn","currency":"usd","amount":22,"description":"Payment from waldron@beluxllc.com","receipt_email":"waldron@beluxllc.com","metadata":{"esb_plan_id":"6561","order_id":6649,"order_post_type":"lbooking","order_ids":"6649","user_id":9,"user_email":"waldron_customer@dovewebdesign.com","renew":"no","subscription":"no"}}
+[2019-08-25 23:57 UTC] - Stripe create charge error: Amount must be at least 50 cents
+[2019-09-03 02:56 UTC] - Plan args: {"currency":"usd","nickname":"Free","product":{"name":"Free Stripe product"},"amount":0,"interval":"month","interval_count":""}
+[2019-09-03 02:56 UTC] - Stripe create plan error: Invalid integer: 
+[2019-09-03 02:56 UTC] - Plan args: {"currency":"usd","nickname":"Free","product":{"name":"Free Stripe product"},"amount":0,"interval":"month","interval_count":""}
+[2019-09-03 02:56 UTC] - Stripe create plan error: Invalid integer: 
+[2019-09-03 02:56 UTC] - Plan args: {"currency":"usd","nickname":"Free","product":{"name":"Free Stripe product"},"amount":0,"interval":"month","interval_count":""}
+[2019-09-03 02:56 UTC] - Stripe create plan error: Invalid integer: 
+[2019-09-03 02:56 UTC] - Plan args: {"currency":"usd","nickname":"Free","product":{"name":"Free Stripe product"},"amount":0,"interval":"month","interval_count":""}
+[2019-09-03 02:56 UTC] - Stripe create plan error: Invalid integer: 
+[2019-09-03 02:57 UTC] - Plan args: {"currency":"usd","nickname":"Extended","product":{"name":"Extended Stripe product"},"amount":10890,"interval":"month","interval_count":"3"}
+[2019-09-03 02:57 UTC] - Plan args: {"currency":"usd","nickname":"Free","product":{"name":"Free Stripe product"},"amount":0,"interval":"month","interval_count":"1"}

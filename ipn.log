@@ -1,0 +1,190 @@
+[08/25/2019 11:48 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+insurance_amount=0.00
+discount=0.00
+transaction_subject=
+payment_date=16%3A48%3A33+Aug+25%2C+2019+PDT
+txn_type=web_accept
+last_name=mccritty
+residence_country=US
+pending_reason=unilateral
+shipping_method=Default
+item_name=Payment+for+Transportation+Booking+rooms+booking+from+Waldron+McCritty
+payment_gross=0.22
+mc_currency=USD
+payment_type=instant
+protection_eligibility=Ineligible
+verify_sign=AsvTuJwpbcNRiAzfcR3CbYgPQ8OrAIZd.Rtp05QNqo7vIkGajkBrD4IJ
+payer_status=verified
+payer_email=beluxtransport%40gmail.com
+txn_id=09D22135TP4432726
+quantity=1
+receiver_email=waldron%40beluxllc.com
+first_name=waldron
+invoice=invoice5d631d2a63cec
+payer_id=E5GD66LKYRM7W
+item_number=6561
+payer_business_name=BE+LUX
+payment_status=Pending
+mc_gross=0.22
+custom=6648%7C9%7Cwaldron_customer%40dovewebdesign.com%7Crenew_no
+charset=windows-1252
+notify_version=3.9
+shipping_discount=0.00
+ipn_track_id=cf5c336a2887
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 5cd5ced61455e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+Date: Sun, 25 Aug 2019 23:48:41 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=3Ww_xahtybdEHCYCXJkDSrTRL9E9dymQvnMCH4lS3_1NL0JzmR13PWkJImSffKZa12cO9WZmx41F7Sc8lYeOlwIYDprIt4Lcxjw0oXvTqokZuojR4-76btoyl6B1cwNy_A3AoFA4MBudiJQfZwjMv1bqcUElU7YKaeJLpyvNrnMrJdw79DE7FyYv8n1kWp_LdwYca1wYoUhVOXaxGM2KcsqvInDjesh5OpBnlY5gdUucijYZbCrSbUHabVaHxTh2zV7VzJdsjbSr-pKostKPOVSCqnh9a3TvC_r7h6NjgFb8XPJPmqsOYAeRgr2g9MLXwrrwQbRABN2R9HgVEVvdnrLUY_V7CAq0A8tS0SNcV-WfXaF3W0HuJopErcaByG8Gc3aKpxiGcyBDGfN6-3vXDy2L1iSDQeLzM8jSuxI0DH5AWLzgQnhk-HolDgO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 22-Aug-2029 23:48:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 24-Aug-2021 23:48:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1495163741%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Mon, 26 Aug 2019 00:18:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Mon, 26-Aug-2019 00:18:41 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1566777521~id=d6bd23589bfcc972c196d7bc2d0a3537; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+New IPN POST Vars from Paypal:
+insurance_amount=0.00
+discount=0.00
+transaction_subject=
+payment_date=16:48:33 Aug 25, 2019 PDT
+txn_type=web_accept
+last_name=mccritty
+residence_country=US
+pending_reason=unilateral
+shipping_method=Default
+item_name=Payment for Transportation Booking rooms booking from Waldron McCritty
+payment_gross=0.22
+mc_currency=USD
+payment_type=instant
+protection_eligibility=Ineligible
+verify_sign=AsvTuJwpbcNRiAzfcR3CbYgPQ8OrAIZd.Rtp05QNqo7vIkGajkBrD4IJ
+payer_status=verified
+payer_email=beluxtransport@gmail.com
+txn_id=09D22135TP4432726
+quantity=1
+receiver_email=waldron@beluxllc.com
+first_name=waldron
+invoice=invoice5d631d2a63cec
+payer_id=E5GD66LKYRM7W
+item_number=6561
+payer_business_name=BE LUX
+payment_status=Pending
+mc_gross=0.22
+custom=6648|9|waldron_customer@dovewebdesign.com|renew_no
+charset=windows-1252
+notify_version=3.9
+shipping_discount=0.00
+ipn_track_id=cf5c336a2887
+
+[09/25/2019 5:21 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=0.22
+invoice=invoice5d631d2a63cec
+protection_eligibility=Ineligible
+payer_id=E5GD66LKYRM7W
+tax=0.00
+payment_date=16%3A48%3A33+Aug+25%2C+2019+PDT
+payment_status=Refunded
+charset=windows-1252
+first_name=waldron
+notify_version=3.9
+custom=6648%7C9%7Cwaldron_customer%40dovewebdesign.com%7Crenew_no
+payer_status=verified
+quantity=1
+verify_sign=AP37U7gPUL7wW.bhj7gUYHr1YqBVAQUvj.ImaLU26RZaoAH-LqyWKda-
+payer_email=beluxtransport%40gmail.com
+txn_id=09D22135TP4432726
+payment_type=instant
+payer_business_name=BE+LUX
+last_name=mccritty
+receiver_email=waldron%40beluxllc.com
+shipping_discount=0.00
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Payment+for+Transportation+Booking+rooms+booking+from+Waldron+McCritty
+discount=0.00
+mc_currency=USD
+item_number=6561
+residence_country=US
+handling_amount=0.00
+shipping_method=Default
+transaction_subject=
+payment_gross=0.22
+shipping=0.00
+ipn_track_id=40a45e3c8cc61
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg14.slc
+Paypal-Debug-Id: 656f1da9e41be
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Wed, 25 Sep 2019 05:21:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=kwku-5RRXXwQGaUDzGz0YznEG67A0cEgkzbelH5wbkbBE9nnWRR3cmt5jc6_yWrcJfYx_o0Ioyglmg_f5FWTx8qWMt9R59lp4IrIBIK7U_ajF2XL_n5dL-koeUV4WqmwYXJJCrK8TjMfLuJmNF-QCIVGlSWNOrTwnWfE6YVCs5t1_VR37-k5JZCAYUwoKkjwi-aLO0nuJu5ajuKNjuBBg5LMxblXl7mO6OgsM9a7bC9PNn9p-HYgmvqtn5NEg5_SbQML22shIaj7rcIpNvf3kcNyksalIy2xudI0J3PnFDuinYDI2jAiXBF1pBrSwcwI3Dgi5aaAilWSW5RXIF51ykrT0_hnwRChkjdoTV8w8la-epRH0W58bOXNImken0Fj9Otexsy2Mtp7F4vJCMFwkWjhKlHW9iX5DDoRK-4jI7z3ur-Uf2g5R2O_sOe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 22-Sep-2029 05:21:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 24-Sep-2021 05:21:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1878624861%26HTTP_X_PP_AZ_LOCATOR%3Ddcg14.slc; Expires=Wed, 25 Sep 2019 05:51:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Wed, 25-Sep-2019 05:51:52 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1569389512~id=cb04e56e97c9ec3316ee9cd63dcf2899; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+New IPN POST Vars from Paypal:
+mc_gross=0.22
+invoice=invoice5d631d2a63cec
+protection_eligibility=Ineligible
+payer_id=E5GD66LKYRM7W
+tax=0.00
+payment_date=16:48:33 Aug 25, 2019 PDT
+payment_status=Refunded
+charset=windows-1252
+first_name=waldron
+notify_version=3.9
+custom=6648|9|waldron_customer@dovewebdesign.com|renew_no
+payer_status=verified
+quantity=1
+verify_sign=AP37U7gPUL7wW.bhj7gUYHr1YqBVAQUvj.ImaLU26RZaoAH-LqyWKda-
+payer_email=beluxtransport@gmail.com
+txn_id=09D22135TP4432726
+payment_type=instant
+payer_business_name=BE LUX
+last_name=mccritty
+receiver_email=waldron@beluxllc.com
+shipping_discount=0.00
+insurance_amount=0.00
+txn_type=web_accept
+item_name=Payment for Transportation Booking rooms booking from Waldron McCritty
+discount=0.00
+mc_currency=USD
+item_number=6561
+residence_country=US
+handling_amount=0.00
+shipping_method=Default
+transaction_subject=
+payment_gross=0.22
+shipping=0.00
+ipn_track_id=40a45e3c8cc61
+
